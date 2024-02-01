@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">Dart & Flutter Developer</h3>
-<img align="right" alt="Coding" width="400" height="250" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="right" alt="Coding" width="400" height="260" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 - 📫 How to reach me **email: nikitamjrv@yandex.ru, tg: @nikitamjrv**
 

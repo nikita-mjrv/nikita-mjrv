@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" height="265" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 - 📫 How to reach me **email: nikitamjrv@yandex.ru, tg: @nikitamjrv**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/nikitamjrv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikitamjrv" height="30" width="40" /></a>

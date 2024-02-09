@@ -2,7 +2,7 @@
 <h3 align="center">Dart & Flutter Developer</h3>
 <img align="right" alt="Coding" width="400" height="225" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-- 📫 How to reach me **email: nikitamjrv@yandex.ru, tg: @nikitamjrv**
+- 📫 How to reach me: **email: nikitamjrv@yandex.ru, tg: @nikitamjrv**
 
 
 <h3 align="left">Languages and Tools:</h3>
